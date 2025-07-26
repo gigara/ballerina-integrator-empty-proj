@@ -1,4 +1,4 @@
 [package]
-org = "coder"
-name = "xxx"
-version = "0.1.0"
+org = "devant"
+name = "Sample"
+version = "1.0.0"
